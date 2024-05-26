@@ -14,7 +14,7 @@
 
 O projeto tem como objetivo gerar um podcast com ferramentas de IA através de prompts mais trabalhados. Todos os prompts estão disponibilizados abaixo.
 
-<a href="" title="PODCAST"> 🎤 Clique para escutar</a>
+<a href="https://github.com/Jhulliano/prompts-para-podcast-gerado-por-ia/tree/main/audios" title="PODCAST"> 🎤 Clique para escutar</a>
 
 ## 💻 Tecnologias utilizadas
 
